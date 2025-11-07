@@ -12,3 +12,4 @@ enjoy the site!
 Note: i made this for my school to work as a games hub, if the link to this site gets found it is nearly a guarentee to get all sites here banned. I might changed the link frequently
 
 if you have any game recomendations or sites you want added, feel free to get in contact. my discord is in my bio. just specify why you are messaging so i know your not some troll or something 
+about the password: yes i know it is clientsided and uneffective any anyone with a brain could check the code and find the password. it is to keep out the people without the ability to read aka the idiots in my class who would leak this site and get all the links banned
