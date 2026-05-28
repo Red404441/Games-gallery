@@ -7,10 +7,11 @@ Ever felt like every good games site is just full of ads and bloat? Me too, that
 some sites may be broken/blocked. this isnt my fault and is either your network filtering options or it is the people behind the site. if you find any issues please let me know, please be bothered to check if its your network or if the site is gone, 
 ![Screenshot of project](Image.png)
 enjoy the site!
-Note: i made this for my school to work as a games hub, if the link to this site gets found it is nearly a guarentee to get all sites here banned. I might changed the link frequently
+Note: i made this for my school to work as a games hub.
 if you have any game recomendations or sites you want added, feel free to get in contact. 
 used ai for tags, if you see something in there the tag doesnt match, refer to the first 4 words of this line.
 
+vercel page incase github is banned: https://game-gallery-six.vercel.app/
 
 <h2>Credits</h2>
 Song used is:
